@@ -1,0 +1,21 @@
+PODS:
+  - XPaySwiftSDK (1.0.0)
+
+DEPENDENCIES:
+  - XPaySwiftSDK (from `https://github.com/arXpay/XPaySwiftSDK.git`)
+
+EXTERNAL SOURCES:
+  XPaySwiftSDK:
+    :git: https://github.com/arXpay/XPaySwiftSDK.git
+
+CHECKOUT OPTIONS:
+  XPaySwiftSDK:
+    :commit: e942966c511fd8dcb50184f2bab93223034cf6f4
+    :git: https://github.com/arXpay/XPaySwiftSDK.git
+
+SPEC CHECKSUMS:
+  XPaySwiftSDK: 354ea61c345b861ed782a38532127dfac7acb4d1
+
+PODFILE CHECKSUM: 92f2b59c3c66449c8ec7fa0f819cfdcef5354634
+
+COCOAPODS: 1.15.2
